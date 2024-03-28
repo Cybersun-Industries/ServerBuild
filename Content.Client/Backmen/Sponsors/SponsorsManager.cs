@@ -1,4 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
+using System.Diagnostics.CodeAnalysis;
 using Content.Corvax.Interfaces.Client;
 using Content.Shared.Backmen.Sponsors;
 using Robust.Shared.Network;
@@ -32,6 +32,8 @@ public sealed class SponsorsManager : IClientSponsorsManager
         Prototypes.Add("tier03");
         Prototypes.Add("tier04");
         Prototypes.Add("tier05");
+        Prototypes.Add("tier06");
+        Prototypes.Add("tier07");
 #endif
 
         if (message.Info == null)

@@ -1,4 +1,4 @@
-sponsor-win-manager-title = Спорнсор панель
+sponsor-win-manager-title = Спонсор панель
 sponsor-win-manager-tier = Ваш уровень:
 sponsor-win-manager-ghost-default = Стандартный
 sponsor-win-manager-ghost-tier1 = Анимированный Стандартный
@@ -8,6 +8,8 @@ sponsor-win-manager-ghost-tier02 = Пепельный
 sponsor-win-manager-ghost-tier03 = Тёмный
 sponsor-win-manager-ghost-tier04 = Ледяной
 sponsor-win-manager-ghost-tier05 = Снег
+sponsor-win-manager-ghost-tier06 = Анимированный Максвелл
+sponsor-win-manager-ghost-tier07 = Анимированный пингвин Linux
 sponsor-win-manager-theme = Тема призрака:
 sponsor-win-manager-tier-0 = Бесплатный
 sponsor-win-manager-tier-1 = Инициаторы🔮

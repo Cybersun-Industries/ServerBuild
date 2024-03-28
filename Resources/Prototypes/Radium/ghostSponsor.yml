@@ -1,0 +1,27 @@
+﻿- type: ghostTheme
+  id: tier06
+  components:
+  - type: Sprite
+    overrideContainerOcclusion: true
+    noRot: true
+    drawdepth: Ghosts
+    sprite: Radium/Mobs/Ghosts/ghost_maxwell.rsi
+    scale: 0.125, 0.125
+    state: animated-maxwel
+    color: "#fff8"
+    layers:
+    - state: animated-maxwell
+
+- type: ghostTheme
+  id: tier07
+  components:
+  - type: Sprite
+    overrideContainerOcclusion: true
+    noRot: true
+    drawdepth: Ghosts
+    sprite: Radium/Mobs/Ghosts/ghost_linux.rsi
+    scale: 0.125, 0.125
+    state: animated-linuxtux
+    color: "#fff8"
+    layers:
+    - state: animated-linuxtux
