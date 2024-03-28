@@ -17,15 +17,15 @@
 - type: entity
   parent: MobHuman
   id: HumanReplicaClown
-  name: Клоун реплика
+  name: Клоун репликант
   components:
     - type: Icon
       sprite: Markers/jobs.rsi
       state: clown
     - type: GhostRole
-      name: ghost-role-information-canned-clown-name
-      description: ghost-role-information-canned-clown-description
-      rules: Помогайте Хонк браткам во исполнении ВЕСЁЛЫХ планов!
+      name: ghost-role-information-replica-clown-name
+      description: ghost-role-information-replica-clown-description
+      rules: ghost-role-information-replica-clown-rules
     - type: GhostTakeoverAvailable
     - type: Loadout
       prototypes: [PodClownGear]

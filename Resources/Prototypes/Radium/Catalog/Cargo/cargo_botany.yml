@@ -5,5 +5,5 @@
     state: seed
   product: CrateHydroponicsPlanetSeeds
   cost: 1000
-  category: Hydroponics
+  category: cargoproduct-category-name-hydroponics
   group: market

@@ -1,7 +1,0 @@
-- type: stack
-  id: Ink
-  name: Чернила
-  icon: { sprite: /Textures/Radium/Objects/Materials/Sheets/other.rsi, state: ink }
-  spawn: SheetInk1
-  maxCount: 30
-  itemSize: 1

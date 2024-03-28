@@ -5,7 +5,7 @@
   name: Урист МакРепликант
   components:
   - type: Hunger
-  - type: Icon # It will not have an icon in the adminspawn menu without this. Body parts seem fine for whatever reason.
+  - type: Icon
     sprite: Mobs/Species/Human/parts.rsi
     state: full
   - type: Thirst
@@ -23,7 +23,7 @@
   suffix: GhostRole
   components:
   - type: Hunger
-  - type: Icon # It will not have an icon in the adminspawn menu without this. Body parts seem fine for whatever reason.
+  - type: Icon
     sprite: Mobs/Species/Human/parts.rsi
     state: full
   - type: Thirst
@@ -33,6 +33,7 @@
     - id: FoodMeatHuman
       amount: 5
   - type: GhostRole
-    name: Урист МакРепликант
-    description: Репликант который родился в капусте.
+    name: ghost-role-information-replica-human-name
+    description: ghost-role-information-replica-human-description
+    rules: ghost-role-information-replica-human-rules
   - type: GhostTakeoverAvailable

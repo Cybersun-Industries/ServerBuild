@@ -6,5 +6,5 @@
     state: rtg
   product: GeneratorRTG
   cost: 10000
-  category: Engineering
+  category: cargoproduct-category-name-engineering
   group: market

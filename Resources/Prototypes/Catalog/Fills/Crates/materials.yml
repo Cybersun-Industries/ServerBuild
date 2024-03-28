@@ -107,16 +107,6 @@
     contents:
       - id: SheetPaper
         amount: 3
-#Radium
-- type: entity
-  id: CrateMaterialInk
-  name: Чернила
-  parent: CrateGenericSteel
-  components:
-  - type: StorageFill
-    contents:
-      - id: SheetInk
-        amount: 3
 
 #- type: entity
 #  id: CrateMaterialHFuelTank

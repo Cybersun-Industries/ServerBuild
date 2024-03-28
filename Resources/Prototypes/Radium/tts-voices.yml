@@ -3,16 +3,16 @@
   name: tts-voice-name-oleg
   sex: Male
   speaker: oleg
-  
+
 - type: ttsVoice
   id: Aidar
-  name: tts-voice-name-oleg
+  name: tts-voice-name-aidar
   sex: Male
   speaker: oleg
-  
+
 - type: ttsVoice
   id: Arisha
-  name: tts-voice-name-arisha
+  name: tts-voice-name-b-arina
   sex: Female
   speaker: arisha
 
@@ -24,7 +24,7 @@
 
 - type: ttsVoice
   id: Asha
-  name: tts-voice-name-asha
+  name: tts-voice-name-b-asa
   sex: Female
   speaker: asha
 
@@ -48,7 +48,7 @@
 
 - type: ttsVoice
   id: Sofa
-  name: tts-voice-name-sofa
+  name: tts-voice-name-b-sofy
   sex: Female
   speaker: sofa
 
@@ -84,7 +84,7 @@
 
 - type: ttsVoice
   id: Richard
-  name: tts-voice-name-richard
+  name: tts-voice-name-b-richard
   sex: Male
   speaker: richard
 

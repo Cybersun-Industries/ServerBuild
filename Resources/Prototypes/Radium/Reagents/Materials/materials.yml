@@ -1,7 +1,0 @@
-- type: material
-  id: Ink
-  stackEntity: SheetInk1
-  name: Чернила
-  icon: { sprite: Radium/Objects/Materials/Sheets/other.rsi, state: ink }
-  color: "#454642"
-  price: 0.1

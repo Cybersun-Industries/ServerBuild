@@ -5,5 +5,5 @@
     state: off
   product: VendingMachineBooze
   cost: 10000
-  category: Service
+  category: cargoproduct-category-name-service
   group: market
